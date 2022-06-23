@@ -8,7 +8,11 @@ public class GitPracticeTwo {
 		
 		public void getUrl() {
 			
-			
+		}
+		
+		public int mult(int a, int b) {
+			int sum = a+b;
+			return sum;
 		}
 	}
 
