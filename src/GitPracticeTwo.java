@@ -5,6 +5,11 @@ public class GitPracticeTwo {
 			int sum = a+b;
 			return sum;
 		}
+		
+		public void getUrl() {
+			
+			
+		}
 	}
 
 
